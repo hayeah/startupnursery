@@ -1,0 +1,29 @@
+{
+    "name": "Startupnursery",
+    "version": "1.0.0",
+    "description": "Tools for a Node.JS application",
+    "author": {
+        "name": "gwalet",
+        "email": "gwenael@startupnursery.io"
+    },
+    "keywords": [
+        "nodejs",
+        "tools"
+    ],
+    "main": "index.js",
+    "private": true,
+    "contributors": [
+        {
+            "name": "gwalet",
+            "email": "gwenael@startupnursery.io"
+        }
+    ],
+    "dependencies": {
+    },
+    "maintainers": [
+        {
+            "name": "gwalet",
+            "email": "gwenael@startupnursery.io"
+        }
+    ]
+}
